@@ -1,0 +1,5 @@
+how to start this project
+1.npm run start
+2. If not start then run npm i to update npm node mdules
+3.if not then update react scripts by this command
+npm install react-scripts@latest --save
